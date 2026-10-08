@@ -1,5 +1,6 @@
 # remote-sysinfo-tool
 Remote System Information Tool
+* [❤️ Sponsor Me on GitHub](https://github.com/sponsors/Elangovan84)
 
 A lightweight Python desktop application designed to remotely fetch detailed hardware and software system information from any Windows machine across a local or domain network using an IP address and administrator credentials.
 
