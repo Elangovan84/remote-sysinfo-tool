@@ -1,7 +1,7 @@
 # remote-sysinfo-tool
 Remote System Information Tool
 
-A lightweight Python Tkinter desktop application designed to remotely fetch detailed hardware and software system information from any Windows machine across a local or domain network using an IP address and administrator credentials.
+A lightweight Python desktop application designed to remotely fetch detailed hardware and software system information from any Windows machine across a local or domain network using an IP address and administrator credentials.
 
 ![App Screenshot](screenshot.png)
 
